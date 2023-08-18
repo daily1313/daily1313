@@ -1,6 +1,6 @@
 <div align = "center">
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daily1313)](https://solved.ac/daily1313)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daily1313)](https://solved.ac/daily1313/)
 
 </div>
 
