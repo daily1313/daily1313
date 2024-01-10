@@ -7,7 +7,7 @@
 
 Piolink (23.08 ~ Present)
 - TiController (Cloud Security Switch Management System, Company Product) Maintenance and Development
-- Responding to issues of Many Companies Using TiController Project  
+- Responding to issues of Many Companies Using TiController Product  
 
 ## Stack
 
