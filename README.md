@@ -29,11 +29,6 @@ Piolink (23.08 ~ Present)
 ### Studying now 
 - AngularJS, JQuery, JavaScript
  
-<div align = "center">
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=daily1313)](https://solved.ac/daily1313)
-
-</div>
 
 <!--
 **daily1313/daily1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
