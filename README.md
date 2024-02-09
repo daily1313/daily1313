@@ -1,7 +1,7 @@
 ## Information
 
 ### Education
-- Graduated from Myongji University in Information and Communication Engineering (18.02 ~ 24.02, Expected)
+- Graduated from Myongji University in Information and Communication Engineering (18.02 ~ 24.02)
 
 ### Work Experience
 
