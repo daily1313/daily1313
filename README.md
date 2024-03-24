@@ -7,7 +7,8 @@
 
 Piolink (23.08 ~ Present)
 - TiController (Cloud Security Switch Management System, Company Product) Maintenance and Development
-- Responding to issues of Many Companies Using TiController Product  
+- Responding to issues of Many Companies Using TiController Product
+- Create Selenium Web UI Test to Improve TiController Development Quality  
 
 ## Stack
 
@@ -25,6 +26,9 @@ Piolink (23.08 ~ Present)
 
 ### Infrastructure
 - AWS EC2, RDS, Route53, ALB
+
+### Test
+- Junit, Selenium
 
 ### Studying now 
 - AngularJS, JQuery, JavaScript
