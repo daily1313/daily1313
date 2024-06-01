@@ -8,7 +8,8 @@
 Piolink (23.08 ~ Present)
 - TiController (Cloud Security Switch Management System, Company Product) Maintenance and Development
 - Responding to issues of Many Companies Using TiController Product
-- Create Selenium Web UI Test to Improve TiController Development Quality  
+- Create Selenium Web UI Test to Improve TiController Development Quality
+- Contributing to TiController CC Certification
 
 ## Stack
 
@@ -16,7 +17,7 @@ Piolink (23.08 ~ Present)
 - Springboot
 
 ### Language 
-- Java
+- Java, JavaScript
 
 ### Database
 - Mysql, MariaDB, Elasticsearch(NOSQL)
@@ -31,7 +32,7 @@ Piolink (23.08 ~ Present)
 - Junit, Selenium
 
 ### Studying now 
-- AngularJS, JQuery, JavaScript
+- AngularJS, JQuery
  
 
 <!--
