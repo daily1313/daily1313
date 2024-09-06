@@ -11,30 +11,6 @@ Piolink (23.08 ~ Present)
 - Create Selenium Web UI Test to Improve TiController Development Quality
 - Contributing to TiController CC Certification
 
-## Stack
-
-### Framework 
-- Springboot, AngularJS
-
-### Library
-- JQuery
-
-### Language 
-- Java, JavaScript
-
-### Database
-- Mysql, MariaDB, Elasticsearch(NOSQL)
-
-### CI/CD
-- Docker, Docker-compose
-
-### Infrastructure
-- AWS EC2, RDS, Route53, ALB
-- Nginx
-
-### Test
-- Junit, Selenium 
-
 <!--
 **daily1313/daily1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
