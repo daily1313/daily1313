@@ -8,8 +8,9 @@
 Piolink (23.08 ~ Present)
 - TiController (Cloud Security Switch Management System, Company Product) Maintenance and Development
 - Responding to issues of Many Companies Using TiController Product
+- Develop TiController Dashboard Component Statistics Function
 - Create Selenium Web UI Test to Improve TiController Development Quality
-- Contributing to TiController CC Certification
+- Contributing to TiController CC Certification (
 
 <!--
 **daily1313/daily1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
